@@ -20,12 +20,12 @@ This project implements a facial recognition system using Haar Cascade classifie
    ```bash
    git clone https://github.com/PedroMundel/FacialRecognitionWithHaas.git
 2. Install the required dependencies:
-   opencv-python, opencv-contrib-python, numpy, PIL,
+   opencv-python, opencv-contrib-python, numpy, PIL
 
 3. Run the application:
    python main.py
 
-##File Structure:
+## File Structure:
 
 - **main.py**: Main script to run the facial recognition application.
 
