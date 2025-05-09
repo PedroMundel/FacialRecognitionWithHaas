@@ -46,7 +46,9 @@ This project uses Haar Cascade Classifiers for detecting facial features, which 
 
 Castrillón Santana, M., Déniz Suárez, O., Hernández Tejera, M., & Guerra Artal, C. (2007) in their paper "ENCARA2: Real-time Detection of Multiple Faces at Different Resolutions in Video Streams", Journal of Visual Communication and Image Representation.
 
-Additionally, these classifiers were trained using OpenCV's CascadeClassifier API.
+These classifiers were trained using OpenCV's CascadeClassifier API.
+
+Additionally, the code is from https://youtube.com/@javapocalypse?si=Sq29AKI8hrxTvbfc , https://github.com/the-javapocalypse
 
 ## License:
 
