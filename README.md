@@ -22,7 +22,11 @@ This project implements a facial recognition system using Haar Cascade classifie
 2. Install the required dependencies:
    opencv-python, opencv-contrib-python, numpy, PIL
 
-3. Run the application:
+3. Create a folder named 'data' and run generateDataset.py
+   
+4. Run trainClassifier.py
+
+5. Run the application:
    python main.py
 
 ## File Structure:
